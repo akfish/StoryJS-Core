@@ -11,5 +11,5 @@
 // @codekit-prepend "VMM.Date.js";
 // @codekit-prepend "VMM.Util.js";
 // @codekit-prepend "VMM.LoadLib.js";
-// @codekit-prepend "VMM.Language.js";
+// @codekit-prepend "../Language/VMM.Language.js";
 
